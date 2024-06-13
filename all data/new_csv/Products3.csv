@@ -1,0 +1,776 @@
+Product,Product Group 1,Product Group 2,Description,Price,Test,Product_Cost
+BIFA 30 AN,Flower Pots,Flower Pot,Flower Pot 5292105000251,20.17,3.55,4
+BIFA 30 CH,Flower Pots,Flower Pot,Flower Pot 5292105007151,20.17,3.55,4
+BIFA 30 GD,Flower Pots,Flower Pot,Flower Pot 5292105008370..,20.17,3.58,4
+BIFA 30 GSA,Flower Pots,Flower Pot,Flower Pot 5292105000237,20.17,3.58,4
+BIFA 30 IM,Flower Pots,Flower Pot,Flower Pot 5292105001968,20.17,3.57,4
+BIFA 30 PS,Flower Pots,Flower Pot,Flower Pot 5292105000220,20.17,3.55,4
+BIFA 30 SM,Flower Pots,Flower Pot,Flower Pot 5292105006154,20.17,3.57,4
+BIFA 30 WH,Flower Pots,Flower Pot,Flower Pot 5292105002262,20.17,3.55,4
+BIFA 40 AN,Flower Pots,Flower Pot,Flower Pot 5292105000268,28.57,6.69,7
+BIFA 40 CH,Flower Pots,Flower Pot,Flower Pot 5292105007168,28.57,6.69,7
+BIFA 40 GD,Flower Pots,Flower Pot,Flower Pot 5292105008387,28.57,6.69,7
+BIFA 40 GSA,Flower Pots,Flower Pot,Flower Pot 5292105000282,28.57,6.75,7
+BIFA 40 IM,Flower Pots,Flower Pot,Flower Pot 5292105001982,28.57,6.72,7
+BIFA 40 PS,Flower Pots,Flower Pot,Flower Pot 5292105000275,28.57,6.69,7
+BIFA 40 SM,Flower Pots,Flower Pot,Flower Pot 5292105006161,28.57,6.72,7
+BIFA 40 WH,Flower Pots,Flower Pot,Flower Pot 5292105002279,28.57,6.69,7
+BIFA 50 AN,Flower Pots,Flower Pot,Flower Pot 5292105000312,42.86,11.51,12
+BIFA 50 CH,Flower Pots,Flower Pot,Flower Pot 5292105007175,42.86,11.51,12
+BIFA 50 GD,Flower Pots,Flower Pot,Flower Pot 5292105008394,42.86,11.51,12
+BIFA 50 GSA,Flower Pots,Flower Pot,Flower Pot 5292105000336,42.86,11.63,12
+BIFA 50 IM,Flower Pots,Flower Pot,Flower Pot 5292105002002,42.86,11.57,12
+BIFA 50 PS,Flower Pots,Flower Pot,Flower Pot 5292105000329,42.86,11.51,12
+BIFA 50 SM,Flower Pots,Flower Pot,Flower Pot 5292105006178,42.86,11.57,12
+BIFA 50 WH,Flower Pots,Flower Pot,Flower Pot 5292105002859,42.86,11.51,12
+COFA 40 IM,Flower Pots,Flower Pot,Flower Pot 5292105001920,22.69,4.69,5
+GOFFA 30 AN,Flower Pots,Flower Pot,Flower Pot 5292105000015,16.81,2.67,3
+GOFFA 30 CH,Flower Pots,Flower Pot,Flower Pot 5292105007137,16.81,2.67,3
+GOFFA 30 GD,Flower Pots,Flower Pot,Flower Pot 5292105008400,16.81,2.69,3
+GOFFA 30 GSA,Flower Pots,Flower Pot,Flower Pot 5292105000039,16.81,2.69,3
+GOFFA 30 IM,Flower Pots,Flower Pot,Flower Pot 5292105001906,16.81,2.68,3
+GOFFA 30 PS,Flower Pots,Flower Pot,Flower Pot 5292105000022,16.81,2.67,3
+GOFFA 30 SM,Flower Pots,Flower Pot,Flower Pot 5292105006130,16.81,2.68,3
+GOFFA 30 WH,Flower Pots,Flower Pot,Flower Pot 5292105002118,16.81,2.67,3
+GOFFA 40 AN,Flower Pots,Flower Pot,Flower Pot 5292105000060,22.69,4.67,5
+GOFFA 40 CH,Flower Pots,Flower Pot,Flower Pot 5292105007120,22.69,4.67,5
+GOFFA 40 GD,Flower Pots,Flower Pot,Flower Pot 5292105008417,22.69,4.67,5
+GOFFA 40 GSA,Flower Pots,Flower Pot,Flower Pot 5292105000084,22.69,4.71,5
+GOFFA 40 IM,Flower Pots,Flower Pot,Flower Pot 5292105001920,22.69,4.69,5
+GOFFA 40 PS,Flower Pots,Flower Pot,Flower Pot 5292105000077,22.69,4.67,5
+GOFFA 40 SC,Flower Pots,Flower Pot,Flower Pot,22.69,4.69,5
+GOFFA 40 WH,Flower Pots,Flower Pot,Flower Pot 5292105002132,22.69,4.67,5
+GOFFA 50 AN,Flower Pots,Flower Pot,Flower Pot 5292105000114,31.09,7.73,8
+GOFFA 50 CH,Flower Pots,Flower Pot,Flower Pot 5292105007144,31.09,7.73,8
+GOFFA 50 GD,Flower Pots,Flower Pot,Flower Pot 5292105008424,31.09,7.73,8
+GOFFA 50 GSA,Flower Pots,Flower Pot,Flower Pot 5292105000138,31.09,7.8,8
+GOFFA 50 IM,Flower Pots,Flower Pot,Flower Pot 5292105001944,31.09,7.77,8
+GOFFA 50 PS,Flower Pots,Flower Pot,Flower Pot 5292105000121,31.09,7.73,8
+GOFFA 50 SM,Flower Pots,Flower Pot,Flower Pot 5292105006147,31.09,7.77,8
+GOFFA 50 WH,Flower Pots,Flower Pot,Flower Pot 5292105002156,31.09,7.73,8
+GOFFA PV40 AN,Flower Pots,Flower Pot,Flower Pot,35.29,9.1,10
+GOFFA PV40 CH,Flower Pots,Flower Pot,Flower Pot,35.29,9.1,10
+GOFFA PV40 GD,Flower Pots,Flower Pot,Flower Pot 5292105008431,35.29,9.1,10
+GOFFA PV40 GSA,Flower Pots,Flower Pot,Flower Pot,35.29,9.19,10
+GOFFA PV40 IM,Flower Pots,Flower Pot,Flower Pot,35.29,9.14,10
+GOFFA PV40 PS,Flower Pots,Flower Pot,Flower Pot,35.29,9.1,10
+GOFFA PV40 SM,Flower Pots,Flower Pot,Flower Pot,35.29,9.14,10
+GOFFA PV40 WH,Flower Pots,Flower Pot,Flower Pot,35.29,9.1,10
+PREPO 35 AN,Flower Pots,Flower Pot,Flower Pot 5292105002453,15.13,1.86,2
+PREPO 35 CH,Flower Pots,Flower Pot,Flower Pot 5292105006918,15.13,1.86,2
+PREPO 35 GD,Flower Pots,Flower Pot,Flower Pot 5292105008448,15.13,1.86,2
+PREPO 35 GSA,Flower Pots,Flower Pot,Flower Pot 5292105005324,15.13,1.88,2
+PREPO 35 IM,Flower Pots,Flower Pot,Flower Pot 5292105005119,15.13,1.87,2
+PREPO 35 PS,Flower Pots,Flower Pot,Flower Pot 5292105002477,15.13,1.86,2
+PREPO 35 SC,Flower Pots,Flower Pot,Flower Pot,15.13,1.87,2
+PREPO 35 SM,Flower Pots,Flower Pot,Flower Pot 5292105005966,15.13,1.87,2
+PREPO 35 WH,Flower Pots,Flower Pot,Flower Pot 5292105002866,15.13,1.86,2
+PREPO 45 AN,Flower Pots,Flower Pot,Flower Pot 5292105002484,20.17,3.62,4
+PREPO 45 CH,Flower Pots,Flower Pot,Flower Pot 5292105002927,20.17,3.62,4
+PREPO 45 GD,Flower Pots,Flower Pot,Flower Pot 5292105008455,20.17,3.62,4
+PREPO 45 GSA,Flower Pots,Flower Pot,Flower Pot 5292105005331,20.17,3.66,4
+PREPO 45 IM,Flower Pots,Flower Pot,Flower Pot 5292105005126,20.17,3.64,4
+PREPO 45 PS,Flower Pots,Flower Pot,Flower Pot 5292105002507,20.17,3.62,4
+PREPO 45 SC,Flower Pots,Flower Pot,Flower Pot,20.17,3.64,4
+PREPO 45 SM,Flower Pots,Flower Pot,Flower Pot 5292105005973,20.17,3.64,4
+PREPO 45 WH,Flower Pots,Flower Pot,Flower Pot 5292105002873,20.17,3.62,4
+PREPO 55 AN,Flower Pots,Flower Pot,Flower Pot 5292105002514,25.21,5.63,6
+PREPO 55 CH,Flower Pots,Flower Pot,Flower Pot 5292105006932,25.21,5.63,6
+PREPO 55 GD,Flower Pots,Flower Pot,Flower Pot 5292105008462,25.21,5.63,6
+PREPO 55 GSA,Flower Pots,Flower Pot,Flower Pot 5292105005348,25.21,5.69,6
+PREPO 55 IMP,Flower Pots,Flower Pot,Flower Pot 5292105005133,25.21,5.66,6
+PREPO 55 PS,Flower Pots,Flower Pot,Flower Pot 5292105002538,25.21,5.63,6
+PREPO 55 SC,Flower Pots,Flower Pot,Flower Pot,25.21,5.66,6
+PREPO 55 SM,Flower Pots,Flower Pot,Flower Pot 5292105005980,25.21,5.66,6
+PREPO 55 WH,Flower Pots,Flower Pot,Flower Pot 5292105002880,25.21,5.63,6
+RIMA 45 AN,Flower Pots,Flower Pot,Flower Pot 5292105003221,21.01,4.02,5
+RIMA 45 CH,Flower Pots,Flower Pot,Flower Pot 5292105006871,21.01,4.02,5
+RIMA 45 GD,Flower Pots,Flower Pot,Flower Pot 5292105008356,21.01,4.06,5
+RIMA 45 GSA,Flower Pots,Flower Pot,Flower Pot 5292105004150,21.01,4.06,5
+RIMA 45 IM,Flower Pots,Flower Pot,Flower Pot 5292105005034,21.01,4.04,5
+RIMA 45 PS,Flower Pots,Flower Pot,Flower Pot 5292105003245,21.01,4.02,5
+RIMA 45 SM,Flower Pots,Flower Pot,Flower Pot 5292105005928,21.01,4.04,5
+RIMA 45 WH,Flower Pots,Flower Pot,Flower Pot 5292105003252,21.01,4.02,5
+RIMA 55 AN,Flower Pots,Flower Pot,Flower Pot 5292105003276,26.89,6.04,7
+RIMA 55 CH,Flower Pots,Flower Pot,Flower Pot 5292105006864,26.89,6.04,7
+RIMA 55 GD,Flower Pots,Flower Pot,Flower Pot 5292105008349,26.89,6.1,7
+RIMA 55 GSA,Flower Pots,Flower Pot,Flower Pot 5292105004402,26.89,6.1,7
+RIMA 55 IM,Flower Pots,Flower Pot,Flower Pot 5292105005041,26.89,6.07,7
+RIMA 55 PS,Flower Pots,Flower Pot,Flower Pot 5292105003290,26.89,6.04,7
+RIMA 55 SC,Flower Pots,Flower Pot,Flower Pot,26.89,6.07,7
+RIMA 55 SM,Flower Pots,Flower Pot,Flower Pot 5292105004167,26.89,6.07,7
+RIMA 55 WH,Flower Pots,Flower Pot,Flower Pot 5292105003306,26.89,6.04,7
+RIMA 75 AN,Flower Pots,Flower Pot,Flower Pot 5292105003320,31.93,8.04,9
+RIMA 75 CH,Flower Pots,Flower Pot,Flower Pot 5292105006857,31.93,8.04,9
+RIMA 75 GD,Flower Pots,Flower Pot,Flower Pot 5292105008363,31.93,8.12,9
+RIMA 75 GSA,Flower Pots,Flower Pot,Flower Pot 5292105003368,31.93,8.12,9
+RIMA 75 IM,Flower Pots,Flower Pot,Flower Pot 5292105004174,31.93,8.08,9
+RIMA 75 PS,Flower Pots,Flower Pot,Flower Pot 5292105003344,31.93,8.04,9
+RIMA 75 SC,Flower Pots,Flower Pot,Flower Pot,31.93,8.08,9
+RIMA 75 SM,Flower Pots,Flower Pot,Flower Pot 5292105005911,31.93,8.08,9
+RIMA 75 WH,Flower Pots,Flower Pot,Flower Pot 5292105003351,31.93,8.04,9
+RIMA 80 AN,Flower Pots,Flower Pot,Flower Pot,134,17.35,18
+RIMA 80 IM,Flower Pots,Flower Pot,Flower Pot,134,17.35,18
+RIMA 80 WH,Flower Pots,Flower Pot,Flower Pot,134,17.35,18
+SVCR M20 AN,Flower Pots,Saucer,Flower Pot Tray 5292105006765,3.36,0.25,1
+SVCR M20 CHO,Flower Pots,Saucer,Flower Pot Tray 5292105007311,3.36,0.25,1
+SVCR M20 GD,Flower Pots,Saucer,Flower Pot Tray 5292105008745,3.36,0.25,1
+SVCR M20 GSA,Flower Pots,Saucer,Flower Pot Tray 5292105006772,3.36,0.25,1
+SVCR M20 IM,Flower Pots,Saucer,Flower Pot Tray 5292105006758,3.36,0.25,1
+SVCR M20 PS,Flower Pots,Saucer,Flower Pot Tray 5292105006796,3.36,0.25,1
+SVCR M20 SC,Flower Pots,Saucer,Flower Pot Tray,3.36,0.25,1
+SVCR M20 SM,Flower Pots,Saucer,Flower Pot Tray 5292105006741,3.36,0.25,1
+SVCR M20 WH,Flower Pots,Saucer,Flower Pot Tray 5292105006789,3.36,0.25,1
+SVCR M30 AN,Flower Pots,Saucer,Flower Pot Tray 5292105003542,6.72,0.87,1
+SVCR M30 CHO,Flower Pots,Saucer,Flower Pot Tray 5292105007267,6.72,0.87,1
+SVCR M30 GD,Flower Pots,Saucer,Flower Pot Tray 5292105008776,6.72,0.87,1
+SVCR M30 GSA,Flower Pots,Saucer,Flower Pot Tray 5292105003559,6.72,0.88,1
+SVCR M30 IM,Flower Pots,Saucer,Flower Pot Tray 5292105003535,6.72,0.88,1
+SVCR M30 PS,Flower Pots,Saucer,Flower Pot Tray 5292105003566,6.72,0.87,1
+SVCR M30 SM,Flower Pots,Saucer,Flower Pot Tray 5292105006192,6.72,0.88,1
+SVCR M30 WH,Flower Pots,Saucer,Flower Pot Tray 5292105003986,6.72,0.87,1
+SVQR M16 AN,Flower Pots,Saucer,Flower Pot Tray 5292105003580,4.2,0.31,1
+SVQR M16 CHO,Flower Pots,Saucer,Flower Pot Tray 5292105007106,4.2,0.31,1
+SVQR M16 GD,Flower Pots,Saucer,Flower Pot Tray 5292105008721,4.2,0.31,1
+SVQR M16 GSA,Flower Pots,Saucer,Flower Pot Tray 5292105004969,4.2,0.31,1
+SVQR M16 IM,Flower Pots,Saucer,Flower Pot Tray 5292105005300,4.2,0.31,1
+SVQR M16 PS,Flower Pots,Saucer,Flower Pot Tray 5292105003597,4.2,0.31,1
+SVQR M16 SC,Flower Pots,Saucer,Flower Pot Tray,4.2,0.31,1
+SVQR M16 SM,Flower Pots,Saucer,Flower Pot Tray 5292105006512,4.2,0.31,1
+SVQR M16 WH,Flower Pots,Saucer,Flower Pot Tray 5292105003993,4.2,0.31,1
+SVQR M19 AN,Flower Pots,Saucer,Flower Pot Tray 5292105003627,4.2,0.46,1
+SVQR M19 CH,Flower Pots,Saucer,Flower Pot Tray 5292105007298,4.2,0.46,1
+SVQR M19 GD,Flower Pots,Saucer,Flower Pot Tray 5292105008738,4.2,0.46,1
+SVQR M19 GSA,Flower Pots,Saucer,Flower Pot Tray 5292105003641,4.2,0.46,1
+SVQR M19 IM,Flower Pots,Saucer,Flower Pot Tray 5292105003610,4.2,0.46,1
+SVQR M19 PS,Flower Pots,Saucer,Flower Pot Tray 5292105003658,4.2,0.46,1
+SVQR M19 SM,Flower Pots,Saucer,Flower Pot Tray 5292105006703,4.2,0.46,1
+SVQR M19 WH,Flower Pots,Saucer,Flower Pot Tray 5292105003634,4.2,0.46,1
+SVQR M21 AN,Flower Pots,Saucer,Flower Pot Tray 5292105003672,4.2,0.74,1
+SVQR M21 CH,Flower Pots,Saucer,Flower Pot Tray 5292105007090,4.2,0.74,1
+SVQR M21 GD,Flower Pots,Saucer,Flower Pot Tray 5292105008752,4.2,0.74,1
+SVQR M21 GSA,Flower Pots,Saucer,Flower Pot Tray 5292105004556,4.2,0.75,1
+SVQR M21 IM,Flower Pots,Saucer,Flower Pot Tray 5292105005287,4.2,0.75,1
+SVQR M21 PS,Flower Pots,Saucer,Flower Pot Tray 5292105003689,4.2,0.74,1
+SVQR M21 SC,Flower Pots,Saucer,Flower Pot Tray,4.2,0.75,1
+SVQR M21 SM,Flower Pots,Saucer,Flower Pot Tray 5292105006505,4.2,0.75,1
+SVQR M21 WH,Flower Pots,Saucer,Flower Pot Tray 5292105004068,4.2,0.74,1
+SVQR M25 AN,Flower Pots,Saucer,Flower Pot Tray 5292105003726,5.04,1.05,2
+SVQR M25 CH,Flower Pots,Saucer,Flower Pot Tray 5292105007304,5.04,1.05,2
+SVQR M25 GD,Flower Pots,Saucer,Flower Pot Tray 5292105008769,5.04,1.05,2
+SVQR M25 GSA,Flower Pots,Saucer,Flower Pot Tray 5292105003740,5.04,1.06,2
+SVQR M25 IM,Flower Pots,Saucer,Flower Pot Tray 5292105003719,5.04,1.05,2
+SVQR M25 PS,Flower Pots,Saucer,Flower Pot Tray 5292105003757,5.04,1.05,2
+SVQR M25 SC,Flower Pots,Saucer,Flower Pot Tray,5.04,1.05,2
+SVQR M25 SM,Flower Pots,Saucer,Flower Pot Tray 5292105006710,5.04,1.05,2
+SVQR M25 WH,Flower Pots,Saucer,Flower Pot Tray 5292105003733,5.04,1.05,2
+Transportation Flower Pots,Flower Pots,Transportation,Transportation of flower pots,4,2.94,3
+VF 10040RS AN,Flower Pots,Flower Pot,Flower Pot 5292105008851,57.98,11.11,12
+VF 10040RS GD,Flower Pots,Flower Pot,Flower Pot 5292105009193,57.98,11.22,12
+VF 10040RS GSA,Flower Pots,Flower Pot,Flower Pot 5292105008844,57.98,11.22,12
+VF 10040RS IM,Flower Pots,Flower Pot,Flower Pot 5292105008875,57.98,11.16,12
+VF 10040RS PS,Flower Pots,Flower Pot,Flower Pot 5292105008837,57.98,11.11,12
+VF 10040RS SC,Flower Pots,Flower Pot,Flower Pot 5292105008882,57.98,11.16,12
+VF 10040RS WH,Flower Pots,Flower Pot,Flower Pot 5292105008868,57.98,11.11,12
+VF 2327 AN,Flower Pots,Flower Pot,Flower Pot 5292105008042,14.29,1.61,2
+VF 2327 CH,Flower Pots,Flower Pot,Flower Pot 5292105008059,14.29,1.61,2
+VF 2327 GD,Flower Pots,Flower Pot,Flower Pot 5292105008479,14.29,1.61,2
+VF 2327 GSA,Flower Pots,Flower Pot,Flower Pot 5292105008066,14.29,1.63,2
+VF 2327 IM,Flower Pots,Flower Pot,Flower Pot 5292105008073,14.29,1.62,2
+VF 2327 PS,Flower Pots,Flower Pot,Flower Pot 5292105008080,14.29,1.61,2
+VF 2327 SC,Flower Pots,Flower Pot,Flower Pot,14.29,1.62,2
+VF 2327 SM,Flower Pots,Flower Pot,Flower Pot 5292105008097,14.29,1.62,2
+VF 2327 WH,Flower Pots,Flower Pot,Flower Pot 5292105008110,14.29,1.61,2
+VF 3030 AN,Flower Pots,Flower Pot,Flower Pot 5292105000633,17.65,3.06,4
+VF 3030 CH,Flower Pots,Flower Pot,Flower Pot 5292105006949,17.65,3.06,4
+VF 3030 GD,Flower Pots,Flower Pot,Flower Pot 5292105008486,17.65,3.06,4
+VF 3030 GSA,Flower Pots,Flower Pot,Flower Pot 5292105000657,17.65,3.09,4
+VF 3030 IM,Flower Pots,Flower Pot,Flower Pot 5292105005140,17.65,3.07,4
+VF 3030 PS,Flower Pots,Flower Pot,Flower Pot 5292105000671,17.65,3.06,4
+VF 3030 SC,Flower Pots,Flower Pot,Flower Pot,17.65,3.07,4
+VF 3030 SM,Flower Pots,Flower Pot,Flower Pot 5292105005997,17.65,3.07,4
+VF 3030 WH,Flower Pots,Flower Pot,Flower Pot 5292105000640,17.65,3.06,4
+VF 3035 AN,Flower Pots,Flower Pot,Flower Pot 5292105007946,16.81,2.67,3
+VF 3035 CH,Flower Pots,Flower Pot,Flower Pot 5292105007953,16.81,2.67,3
+VF 3035 GD,Flower Pots,Flower Pot,Flower Pot 5292105008493,16.81,2.69,3
+VF 3035 GSA,Flower Pots,Flower Pot,Flower Pot 5292105007960,16.81,2.69,3
+VF 3035 IM,Flower Pots,Flower Pot,Flower Pot 5292105007977,16.81,2.68,3
+VF 3035 PS,Flower Pots,Flower Pot,Flower Pot 5292105007984,16.81,2.67,3
+VF 3035 SC,Flower Pots,Flower Pot,Flower Pot,16.81,2.68,3
+VF 3035 SM,Flower Pots,Flower Pot,Flower Pot 5292105007991,16.81,2.68,3
+VF 3035 WH,Flower Pots,Flower Pot,Flower Pot 5292105008011,16.81,2.67,3
+VF 3035R AN,Flower Pots,Flower Pot,Flower Pot 5292105008141,17.65,3.06,4
+VF 3035R CH,Flower Pots,Flower Pot,Flower Pot 5292105008158,17.65,3.06,4
+VF 3035R GD,Flower Pots,Flower Pot,Flower Pot 5292105008509,17.65,3.06,4
+VF 3035R GSA,Flower Pots,Flower Pot,Flower Pot 5292105008165,17.65,3.09,4
+VF 3035R IM,Flower Pots,Flower Pot,Flower Pot 5292105008172,17.65,3.07,4
+VF 3035R PS,Flower Pots,Flower Pot,Flower Pot 5292105008189,17.65,3.06,4
+VF 3035R SM,Flower Pots,Flower Pot,Flower Pot 5292105008196,17.65,3.07,4
+VF 3035R WH,Flower Pots,Flower Pot,Flower Pot 5292105008219,17.65,3.06,4
+VF 3050 AN,Flower Pots,Flower Pot,Flower Pot 5292105005768,16.81,2.67,3
+VF 3050 CH,Flower Pots,Flower Pot,Flower Pot 5292105006956,16.81,2.67,3
+VF 3050 GD,Flower Pots,Flower Pot,Flower Pot 5292105008516,16.81,2.67,3
+VF 3050 GSA,Flower Pots,Flower Pot,Flower Pot 5292105005782,16.81,2.69,3
+VF 3050 IM,Flower Pots,Flower Pot,Flower Pot 5292105005799,16.81,2.68,3
+VF 3050 PS,Flower Pots,Flower Pot,Flower Pot 5292105005751,16.81,2.67,3
+VF 3050 SM,Flower Pots,Flower Pot,Flower Pot 5292105005812,16.81,2.68,3
+VF 3050 WH,Flower Pots,Flower Pot,Flower Pot 5292105005775,16.81,2.67,3
+VF 3060 AN,Flower Pots,Flower Pot,Flower Pot 5292105000688,23.53,5.08,6
+VF 3060 CH,Flower Pots,Flower Pot,Flower Pot 5292105006963,23.53,5.08,6
+VF 3060 GD,Flower Pots,Flower Pot,Flower Pot 5292105008523,23.53,5.13,6
+VF 3060 GSA,Flower Pots,Flower Pot,Flower Pot 5292105000701,23.53,5.13,6
+VF 3060 IM,Flower Pots,Flower Pot,Flower Pot 5292105005157,23.53,5.1,6
+VF 3060 PS,Flower Pots,Flower Pot,Flower Pot 5292105000725,23.53,5.08,6
+VF 3060 SC,Flower Pots,Flower Pot,Flower Pot,23.53,5.1,6
+VF 3060 SM,Flower Pots,Flower Pot,Flower Pot 5292105006000,23.53,5.1,6
+VF 3060 WH,Flower Pots,Flower Pot,Flower Pot 5292105000695,23.53,5.08,6
+VF 3555 AN,Flower Pots,Flower Pot,Flower Pot 5292105007649,21.01,4.02,5
+VF 3555 CH,Flower Pots,Flower Pot,Flower Pot 5292105007656,21.01,4.02,5
+VF 3555 GD,Flower Pots,Flower Pot,Flower Pot 5292105008530,21.01,4.02,5
+VF 3555 GSA,Flower Pots,Flower Pot,Flower Pot 5292105007663,21.01,4.06,5
+VF 3555 IM,Flower Pots,Flower Pot,Flower Pot 5292105007670,21.01,4.04,5
+VF 3555 PS,Flower Pots,Flower Pot,Flower Pot 5292105007687,21.01,4.02,5
+VF 3555 SM,Flower Pots,Flower Pot,Flower Pot 5292105007694,21.01,4.04,5
+VF 3555 WH,Flower Pots,Flower Pot,Flower Pot 5292105007717,21.01,4.02,5
+VF 4015CO AN,Flower Pots,Flower Pot,Flower Pot 5292105004044,16.81,2.67,3
+VF 4015CO CH,Flower Pots,Flower Pot,Flower Pot 5292105007045,16.81,2.67,3
+VF 4015CO GD,Flower Pots,Flower Pot,Flower Pot 5292105008592,16.81,2.67,3
+VF 4015CO GSA,Flower Pots,Flower Pot,Flower Pot 5292105003955,16.81,2.69,3
+VF 4015CO IM,Flower Pots,Flower Pot,Flower Pot 5292105005089,16.81,2.68,3
+VF 4015CO PS,Flower Pots,Flower Pot,Flower Pot 5292105003924,16.81,2.67,3
+VF 4015CO SM,Flower Pots,Flower Pot,Flower Pot 5292105003948,16.81,2.68,3
+VF 4015CO WH,Flower Pots,Flower Pot,Flower Pot 5292105004037,16.81,2.67,3
+VF 4035 AN,Flower Pots,Flower Pot,Flower Pot 5292105007847,21.01,4.02,5
+VF 4035 CH,Flower Pots,Flower Pot,Flower Pot 5292105007854,21.01,4.02,5
+VF 4035 GD,Flower Pots,Flower Pot,Flower Pot 5292105008547,21.01,4.02,5
+VF 4035 GSA,Flower Pots,Flower Pot,Flower Pot 5292105007861,21.01,4.06,5
+VF 4035 IM,Flower Pots,Flower Pot,Flower Pot 5292105007878,21.01,4.04,5
+VF 4035 PS,Flower Pots,Flower Pot,Flower Pot 5292105007885,21.01,4.02,5
+VF 4035 SC,Flower Pots,Flower Pot,Flower Pot,21.01,4.04,5
+VF 4035 SM,Flower Pots,Flower Pot,Flower Pot 5292105007892,21.01,4.04,5
+VF 4035 WH,Flower Pots,Flower Pot,Flower Pot 5292105007915,21.01,4.02,5
+VF 4040 AN,Flower Pots,Flower Pot,Flower Pot 5292105000732,23.53,5.08,6
+VF 4040 CH,Flower Pots,Flower Pot,Flower Pot 5292105006970,23.53,5.08,6
+VF 4040 GD,Flower Pots,Flower Pot,Flower Pot 5292105008554,23.53,5.08,6
+VF 4040 GSA,Flower Pots,Flower Pot,Flower Pot 5292105000756,23.53,5.13,6
+VF 4040 IM,Flower Pots,Flower Pot,Flower Pot 5292105005164,23.53,5.1,6
+VF 4040 PS,Flower Pots,Flower Pot,Flower Pot 5292105000770,23.53,5.08,6
+VF 4040 SC,Flower Pots,Flower Pot,Flower Pot,23.53,5.1,6
+VF 4040 SM,Flower Pots,Flower Pot,Flower Pot 5292105006017,23.53,5.1,6
+VF 4040 WH,Flower Pots,Flower Pot,Flower Pot 5292105000749,23.53,5.08,6
+VF 4040RS AN,Flower Pots,Flower Pot,Flower Pot 5292105003146,23.53,5.08,6
+VF 4040RS CH,Flower Pots,Flower Pot,Flower Pot 5292105007052,23.53,5.08,6
+VF 4040RS GD,Flower Pots,Flower Pot,Flower Pot 5292105008561,23.53,5.08,6
+VF 4040RS GSA,Flower Pots,Flower Pot,Flower Pot 5292105005027,23.53,5.13,6
+VF 4040RS IM,Flower Pots,Flower Pot,Flower Pot 5292105005058,23.53,5.1,6
+VF 4040RS PS,Flower Pots,Flower Pot,Flower Pot 5292105003160,23.53,5.08,6
+VF 4040RS SM,Flower Pots,Flower Pot,Flower Pot 5292105003153,23.53,5.1,6
+VF 4040RS WH,Flower Pots,Flower Pot,Flower Pot 5292105003139,23.53,5.08,6
+VF 4040T AN,Flower Pots,Flower Pot,Flower Pot 5292105002026,23.53,5.08,6
+VF 4040T GD,Flower Pots,Flower Pot,Flower Pot 5292105008714,23.53,5.08,6
+VF 4040T GSA,Flower Pots,Flower Pot,Flower Pot 5292105002026,23.53,5.08,6
+VF 4040T IM,Flower Pots,Flower Pot,Flower Pot 5292105002026,23.53,5.08,6
+VF 4040T PS,Flower Pots,Flower Pot,Flower Pot 5292105000619,23.53,5.08,6
+VF 4040T SM,Flower Pots,Flower Pot,Flower Pot 5292105002026,23.53,5.08,6
+VF 4040T WH,Flower Pots,Flower Pot,Flower Pot 5292105002026,23.53,5.08,6
+VF 4050CO AN,Flower Pots,Flower Pot,Flower Pot 5292105005591,21.85,3.06,4
+VF 4050CO CH,Flower Pots,Flower Pot,Flower Pot 5292105006833,21.85,3.06,4
+VF 4050CO GD,Flower Pots,Flower Pot,Flower Pot 5292105008608,21.85,3.06,4
+VF 4050CO GSA,Flower Pots,Flower Pot,Flower Pot 5292105005577,21.85,3.05,4
+VF 4050CO IM,Flower Pots,Flower Pot,Flower Pot 5292105005607,21.85,3.07,4
+VF 4050CO PS,Flower Pots,Flower Pot,Flower Pot 5292105005560,21.85,3.06,4
+VF 4050CO SM,Flower Pots,Flower Pot,Flower Pot 5292105005614,21.85,3.07,4
+VF 4050CO WH,Flower Pots,Flower Pot,Flower Pot 5292105005553,21.85,3.06,4
+VF 4060CO AN,Flower Pots,Flower Pot,Flower Pot 5292105005690,23.53,5.08,6
+VF 4060CO CH,Flower Pots,Flower Pot,Flower Pot 5292105006840,23.53,5.08,6
+VF 4060CO GD,Flower Pots,Flower Pot,Flower Pot 5292105008615,23.53,5.08,6
+VF 4060CO GSA,Flower Pots,Flower Pot,Flower Pot 5292105005676,23.53,5.13,6
+VF 4060CO IM,Flower Pots,Flower Pot,Flower Pot 5292105005706,23.53,5.1,6
+VF 4060CO PS,Flower Pots,Flower Pot,Flower Pot 5292105005669,23.53,5.08,6
+VF 4060CO SM,Flower Pots,Flower Pot,Flower Pot 5292105005713,23.53,5.1,6
+VF 4060CO WH,Flower Pots,Flower Pot,Flower Pot 5292105005652,23.53,5.08,6
+VF 4070 AN,Flower Pots,Flower Pot,Flower Pot 5292105005843,29.41,7.09,8
+VF 4070 CH,Flower Pots,Flower Pot,Flower Pot 5292105006987,29.41,7.09,8
+VF 4070 GD,Flower Pots,Flower Pot,Flower Pot 5292105008578,29.41,7.16,8
+VF 4070 GSA,Flower Pots,Flower Pot,Flower Pot 5292105005867,29.41,7.16,8
+VF 4070 IM,Flower Pots,Flower Pot,Flower Pot 5292105005874,29.41,7.12,8
+VF 4070 PS,Flower Pots,Flower Pot,Flower Pot 5292105005836,29.41,7.09,8
+VF 4070 SM,Flower Pots,Flower Pot,Flower Pot 5292105005898,29.41,7.12,8
+VF 4070 WH,Flower Pots,Flower Pot,Flower Pot 5292105005850,29.41,7.09,8
+VF 4075 AN,Flower Pots,Flower Pot,Flower Pot 5292105007540,35.29,9.1,10
+VF 4075 CH,Flower Pots,Flower Pot,Flower Pot 5292105007557,35.29,9.1,10
+VF 4075 GD,Flower Pots,Flower Pot,Flower Pot 5292105008585,35.29,9.1,10
+VF 4075 GSA,Flower Pots,Flower Pot,Flower Pot 5292105007564,35.29,9.19,10
+VF 4075 IM,Flower Pots,Flower Pot,Flower Pot 5292105007571,35.29,9.14,10
+VF 4075 PS,Flower Pots,Flower Pot,Flower Pot 5292105007588,35.29,9.1,10
+VF 4075 SM,Flower Pots,Flower Pot,Flower Pot 5292105007595,35.29,9.14,10
+VF 4075 WH,Flower Pots,Flower Pot,Flower Pot 5292105007618,35.29,9.1,10
+VF 4080 AN,Flower Pots,Flower Pot,Flower Pot 5292105000787,31.93,8.04,9
+VF 4080 CH,Flower Pots,Flower Pot,Flower Pot 5292105006994,31.93,8.04,9
+VF 4080 GD,Flower Pots,Flower Pot,Flower Pot 5292105008622,31.93,8.04,9
+VF 4080 GSA,Flower Pots,Flower Pot,Flower Pot 5292105000800,31.93,8.12,9
+VF 4080 IM,Flower Pots,Flower Pot,Flower Pot 5292105005171,31.93,8.08,9
+VF 4080 PS,Flower Pots,Flower Pot,Flower Pot 5292105000824,31.93,8.04,9
+VF 4080 REC,Flower Pots,Flower Pot,Flower Pot,31.93,8.04,9
+VF 4080 SC,Flower Pots,Flower Pot,Flower Pot,31.93,8.08,9
+VF 4080 SM,Flower Pots,Flower Pot,Flower Pot 5292105006024,31.93,8.08,9
+VF 4080 WH,Flower Pots,Flower Pot,Flower Pot 5292105000794,31.93,8.04,9
+VF 4080RS AN,Flower Pots,Flower Pot,Flower Pot 5292105002415,41.18,11.11,12
+VF 4080RS CH,Flower Pots,Flower Pot,Flower Pot 5292105007069,41.18,11.11,12
+VF 4080RS GD,Flower Pots,Flower Pot,Flower Pot 5292105008639,41.18,11.22,12
+VF 4080RS GSA,Flower Pots,Flower Pot,Flower Pot 5292105002439,41.18,11.22,12
+VF 4080RS IM,Flower Pots,Flower Pot,Flower Pot 5292105005102,41.18,11.16,12
+VF 4080RS PS,Flower Pots,Flower Pot,Flower Pot 5292105002422,41.18,11.11,12
+VF 4080RS SM,Flower Pots,Flower Pot,Flower Pot 5292105004389,41.18,11.16,12
+VF 4080RS WH,Flower Pots,Flower Pot,Flower Pot 5292105002446,41.18,11.11,12
+VF 4080T AN,Flower Pots,Flower Pot,Flower Pot 5292105002033,31.93,8.04,9
+VF 4080T GD,Flower Pots,Flower Pot,Flower Pot 5292105008707,31.93,8.04,9
+VF 4080T GSA,Flower Pots,Flower Pot,Flower Pot 5292105002033,31.93,8.04,9
+VF 4080T IM,Flower Pots,Flower Pot,Flower Pot 5292105005225,31.93,8.04,9
+VF 4080T PS,Flower Pots,Flower Pot,Flower Pot 5292105000626,31.93,8.04,9
+VF 4080T SM,Flower Pots,Flower Pot,Flower Pot 5292105001883,31.93,8.04,9
+VF 4080T WH,Flower Pots,Flower Pot,Flower Pot 5292105002033,31.93,8.04,9
+VF 4540RO AN,Flower Pots,Flower Pot,Flower Pot 5292105004792,24.37,5.4,6
+VF 4540RO CH,Flower Pots,Flower Pot,Flower Pot 5292105006895,24.37,5.4,6
+VF 4540RO GD,Flower Pots,Flower Pot,Flower Pot 5292105008646,24.37,5.4,6
+VF 4540RO GSA,Flower Pots,Flower Pot,Flower Pot 5292105004815,24.37,5.45,6
+VF 4540RO IM,Flower Pots,Flower Pot,Flower Pot 5292105005072,24.37,5.42,6
+VF 4540RO PS,Flower Pots,Flower Pot,Flower Pot 5292105004822,24.37,5.4,6
+VF 4540RO SM,Flower Pots,Flower Pot,Flower Pot 5292105005942,24.37,5.42,6
+VF 4540RO WH,Flower Pots,Flower Pot,Flower Pot 5292105004846,24.37,5.4,6
+VF 5045 AN,Flower Pots,Flower Pot,Flower Pot 5292105007748,26.89,6.04,7
+VF 5045 CH,Flower Pots,Flower Pot,Flower Pot 5292105007755,26.89,6.04,7
+VF 5045 GD,Flower Pots,Flower Pot,Flower Pot 5292105008653,26.89,6.04,7
+VF 5045 GSA,Flower Pots,Flower Pot,Flower Pot 5292105007762,26.89,6.1,7
+VF 5045 IM,Flower Pots,Flower Pot,Flower Pot 5292105007779,26.89,6.07,7
+VF 5045 PS,Flower Pots,Flower Pot,Flower Pot 5292105007786,26.89,6.04,7
+VF 5045 SM,Flower Pots,Flower Pot,Flower Pot 5292105007793,26.89,6.07,7
+VF 5045 WH,Flower Pots,Flower Pot,Flower Pot 5292105007816,26.89,6.04,7
+VF 5050 AN,Flower Pots,Flower Pot,Flower Pot 5292105004884,29.41,7.09,8
+VF 5050 CH,Flower Pots,Flower Pot,Flower Pot 5292105006888,29.41,7.09,8
+VF 5050 GD,Flower Pots,Flower Pot,Flower Pot 5292105008660,29.41,7.16,8
+VF 5050 GSA,Flower Pots,Flower Pot,Flower Pot 5292105004891,29.41,7.16,8
+VF 5050 IM,Flower Pots,Flower Pot,Flower Pot 5292105005065,29.41,7.12,8
+VF 5050 PS,Flower Pots,Flower Pot,Flower Pot 5292105004877,29.41,7.09,8
+VF 5050 SC,Flower Pots,Flower Pot,Flower Pot,29.41,7.12,8
+VF 5050 SM,Flower Pots,Flower Pot,Flower Pot 5292105005935,29.41,7.12,8
+VF 5050 WH,Flower Pots,Flower Pot,Flower Pot 5292105004907,29.41,7.09,8
+VF 5050RS AN,Flower Pots,Flower Pot,Flower Pot 5292105007342,29.41,7.09,8
+VF 5050RS CH,Flower Pots,Flower Pot,Flower Pot 5292105007359,29.41,7.09,8
+VF 5050RS GD,Flower Pots,Flower Pot,Flower Pot 5292105008677,29.41,7.16,8
+VF 5050RS GSA,Flower Pots,Flower Pot,Flower Pot 5292105007373,29.41,7.16,8
+VF 5050RS IM,Flower Pots,Flower Pot,Flower Pot 5292105007380,29.41,7.12,8
+VF 5050RS PS,Flower Pots,Flower Pot,Flower Pot 5292105007397,29.41,7.09,8
+VF 5050RS SM,Flower Pots,Flower Pot,Flower Pot 5292105007397,29.41,7.12,8
+VF 5050RS WH,Flower Pots,Flower Pot,Flower Pot 5292105007410,29.41,7.09,8
+VF 5545RO AN,Flower Pots,Flower Pot,Flower Pot 5292105004259,26.89,6.04,7
+VF 5545RO CH,Flower Pots,Flower Pot,Flower Pot 5292105007038,26.89,6.04,7
+VF 5545RO GD,Flower Pots,Flower Pot,Flower Pot 5292105008684,26.89,6.04,7
+VF 5545RO GSA,Flower Pots,Flower Pot,Flower Pot 5292105004778,26.89,6.1,7
+VF 5545RO IM,Flower Pots,Flower Pot,Flower Pot 5292105004365,26.89,6.07,7
+VF 5545RO PS,Flower Pots,Flower Pot,Flower Pot 5292105004785,26.89,6.04,7
+VF 5545RO SM,Flower Pots,Flower Pot,Flower Pot 5292105006062,26.89,6.07,7
+VF 5545RO WH,Flower Pots,Flower Pot,Flower Pot 5292105004242,26.89,6.04,7
+VF 6020RS AN,Flower Pots,Flower Pot,Flower Pot 5292105008974,15.97,11.11,12
+VF 6020RS GD,Flower Pots,Flower Pot,Flower Pot 5292105009216,15.97,11.22,12
+VF 6020RS GSA,Flower Pots,Flower Pot,Flower Pot 5292105008967,15.97,11.22,12
+VF 6020RS IM,Flower Pots,Flower Pot,Flower Pot 5292105008998,15.97,11.16,12
+VF 6020RS PS,Flower Pots,Flower Pot,Flower Pot 5292105008950,15.97,11.11,12
+VF 6020RS SC,Flower Pots,Flower Pot,Flower Pot 5292105009001,15.97,11.16,12
+VF 6020RS WH,Flower Pots,Flower Pot,Flower Pot 5292105008981,15.97,11.11,12
+VF 6060 AN,Flower Pots,Flower Pot,Flower Pot 5292105004570,41.18,11.11,12
+VF 6060 CHO,Flower Pots,Flower Pot,Flower Pot 5292105006901,41.18,11.11,12
+VF 6060 GD,Flower Pots,Flower Pot,Flower Pot 5292105008691,41.18,11.22,12
+VF 6060 GSA,Flower Pots,Flower Pot,Flower Pot 5292105004587,41.18,11.22,12
+VF 6060 IM,Flower Pots,Flower Pot,Flower Pot 5292105005096,41.18,11.16,12
+VF 6060 PS,Flower Pots,Flower Pot,Flower Pot 5292105004594,41.18,11.11,12
+VF 6060 REC,Flower Pots,Flower Pot,Flower Pot,41.18,11.22,12
+VF 6060 SC,Flower Pots,Flower Pot,Flower Pot,41.18,11.16,12
+VF 6060 SM,Flower Pots,Flower Pot,Flower Pot 5292105005959,41.18,11.16,12
+VF 6060 WH,Flower Pots,Flower Pot,Flower Pot 5292105004600,41.18,11.11,12
+VF 6060RS AN,Flower Pots,Flower Pot,Flower Pot,32.77,7.09,8
+VF 6060RS CH,Flower Pots,Flower Pot,Flower Pot,32.77,7.09,8
+VF 6060RS GSA,Flower Pots,Flower Pot,Flower Pot,32.77,7.16,8
+VF 6060RS IM,Flower Pots,Flower Pot,Flower Pot,32.77,7.12,8
+VF 6060RS PS,Flower Pots,Flower Pot,Flower Pot,32.77,7.09,8
+VF 6060RS SM,Flower Pots,Flower Pot,Flower Pot,32.77,7.12,8
+VF 6060RS WH,Flower Pots,Flower Pot,Flower Pot,32.77,7.09,8
+VF 8030RS AN,Flower Pots,Flower Pot,Flower Pot 5292105008912,34.45,11.11,12
+VF 8030RS GD,Flower Pots,Flower Pot,Flower Pot 5292105009209,34.45,11.22,12
+VF 8030RS GSA,Flower Pots,Flower Pot,Flower Pot 5292105008905,34.45,11.22,12
+VF 8030RS IM,Flower Pots,Flower Pot,Flower Pot 5292105008936,34.45,11.16,12
+VF 8030RS PS,Flower Pots,Flower Pot,Flower Pot 5292105008899,34.45,11.11,12
+VF 8030RS SC,Flower Pots,Flower Pot,Flower Pot 5292105008943,34.45,11.16,12
+VF 8030RS WH,Flower Pots,Flower Pot,Flower Pot 5292105008929,34.45,11.11,12
+VF 9090 AN,Flower Pots,Flower Pot,Flower Pot,120,30.16,31
+VF 9090 PS,Flower Pots,Flower Pot,Flower Pot,120,30.16,31
+VF 9090 WH,Flower Pots,Flower Pot,Flower Pot,120,30.16,31
+VF 9615 AN,Flower Pots,Flower Pot,Flower Pot,37.82,11.11,12
+VF 9615 CH,Flower Pots,Flower Pot,Flower Pot,37.82,11.11,12
+VF 9615 GSA,Flower Pots,Flower Pot,Flower Pot,37.82,11.22,12
+VF 9615 IM,Flower Pots,Flower Pot,Flower Pot,37.82,11.16,12
+VF 9615 PS,Flower Pots,Flower Pot,Flower Pot,37.82,11.11,12
+VF 9615 SM,Flower Pots,Flower Pot,Flower Pot,37.82,11.16,12
+VF 9615 WH,Flower Pots,Flower Pot,Flower Pot,37.82,11.11,12
+VFT 10040 AN,Flower Pots,Saucer,Flower Pot Tray 5292105009032,16.81,2.01,3
+VFT 10040 GD,Flower Pots,Saucer,Flower Pot Tray 5292105009223,16.81,2.01,3
+VFT 10040 GSA,Flower Pots,Saucer,Flower Pot Tray 5292105009025,16.81,2.03,3
+VFT 10040 IM,Flower Pots,Saucer,Flower Pot Tray 5292105009056,16.81,2.02,3
+VFT 10040 PS,Flower Pots,Saucer,Flower Pot Tray 5292105009018,16.81,2.01,3
+VFT 10040 SC,Flower Pots,Saucer,Flower Pot Tray 5292105009063,16.81,2.02,3
+VFT 10040 WH,Flower Pots,Saucer,Flower Pot Tray 5292105009049,16.81,2.01,3
+VFT 2565 AN,Flower Pots,Saucer,Flower Pot Tray 5292105002545,8.4,2.01,3
+VFT 2565 CH,Flower Pots,Saucer,Flower Pot Tray 5292105007236,8.4,2.01,3
+VFT 2565 GD,Flower Pots,Saucer,Flower Pot Tray 5292105008783,8.4,2.01,3
+VFT 2565 GSA,Flower Pots,Saucer,Flower Pot Tray 5292105003825,8.4,2.03,3
+VFT 2565 IM,Flower Pots,Saucer,Flower Pot Tray 5292105005317,8.4,2.02,3
+VFT 2565 PS,Flower Pots,Saucer,Flower Pot Tray 5292105002552,8.4,2.01,3
+VFT 2565 SM,Flower Pots,Saucer,Flower Pot Tray 5292105006642,8.4,2.02,3
+VFT 2565 WH,Flower Pots,Saucer,Flower Pot Tray 5292105002576,8.4,2.01,3
+VFT 3030C AN,Flower Pots,Saucer,Flower Pot Tray 5292105004020,4.2,0.34,1
+VFT 3030C CH,Flower Pots,Saucer,Flower Pot Tray 5292105007243,4.2,0.34,1
+VFT 3030C GD,Flower Pots,Saucer,Flower Pot Tray 5292105008790,4.2,0.34,1
+VFT 3030C GSA,Flower Pots,Saucer,Flower Pot Tray 5292105003917,4.2,0.34,1
+VFT 3030C IM,Flower Pots,Saucer,Flower Pot Tray 5292105005294,4.2,0.34,1
+VFT 3030C PS,Flower Pots,Saucer,Flower Pot Tray 5292105003887,4.2,0.34,1
+VFT 3030C SM,Flower Pots,Saucer,Flower Pot Tray 5292105006659,4.2,0.34,1
+VFT 3030C WH,Flower Pots,Saucer,Flower Pot Tray 5292105004013,4.2,0.34,1
+VFT 3330SC AN,Flower Pots,Saucer,Flower Pot Tray 5292105004501,6.72,0.81,1
+VFT 3330SC CHO,Flower Pots,Saucer,Flower Pot Tray 5292105007083,6.72,0.81,1
+VFT 3330SC GD,Flower Pots,Saucer,Flower Pot Tray 5292105008806,6.72,0.81,1
+VFT 3330SC GSA,Flower Pots,Saucer,Flower Pot Tray 5292105004747,6.72,0.81,1
+VFT 3330SC IM,Flower Pots,Saucer,Flower Pot Tray 5292105005270,6.72,0.81,1
+VFT 3330SC PS,Flower Pots,Saucer,Flower Pot Tray 5292105004754,6.72,0.81,1
+VFT 3330SC SC,Flower Pots,Saucer,Flower Pot Tray,6.72,0.81,1
+VFT 3330SC SM,Flower Pots,Saucer,Flower Pot Tray 5292105006499,6.72,0.81,1
+VFT 3330SC WH,Flower Pots,Saucer,Flower Pot Tray 5292105004549,6.72,0.81,1
+VFT 3535 AN,Flower Pots,Saucer,Flower Pot Tray 5292105003832,6.72,1.46,2
+VFT 3535 CH,Flower Pots,Saucer,Flower Pot Tray 5292105007229,6.72,1.46,2
+VFT 3535 GD,Flower Pots,Saucer,Flower Pot Tray 5292105008813,6.72,1.48,2
+VFT 3535 GSA,Flower Pots,Saucer,Flower Pot Tray 5292105004563,6.72,1.48,2
+VFT 3535 IM,Flower Pots,Saucer,Flower Pot Tray 5292105005263,6.72,1.47,2
+VFT 3535 PS,Flower Pots,Saucer,Flower Pot Tray 5292105003863,6.72,1.46,2
+VFT 3535 SM,Flower Pots,Saucer,Flower Pot Tray 5292105006635,6.72,1.47,2
+VFT 3535 WH,Flower Pots,Saucer,Flower Pot Tray 5292105003870,6.72,1.46,2
+VFT 6020 AN,Flower Pots,Saucer,Flower Pot Tray 5292105009155,6.72,2.01,3
+VFT 6020 GD,Flower Pots,Saucer,Flower Pot Tray 5292105009247,6.72,2.01,3
+VFT 6020 GSA,Flower Pots,Saucer,Flower Pot Tray 5292105009148,6.72,2.03,3
+VFT 6020 IM,Flower Pots,Saucer,Flower Pot Tray 5292105009179,6.72,2.02,3
+VFT 6020 PS,Flower Pots,Saucer,Flower Pot Tray 5292105009131,6.72,2.01,3
+VFT 6020 SC,Flower Pots,Saucer,Flower Pot Tray 5292105009186,6.72,2.02,3
+VFT 6020 WH,Flower Pots,Saucer,Flower Pot Tray 5292105009162,6.72,2.01,3
+VFT 6060 AN,Flower Pots,Saucer,Flower Pot Tray 5292105004617,6.72,1.2,2
+VFT 6060 CH,Flower Pots,Saucer,Flower Pot Tray 5292105007076,6.72,1.2,2
+VFT 6060 GD,Flower Pots,Saucer,Flower Pot Tray 5292105008820,6.72,1.2,2
+VFT 6060 GSA,Flower Pots,Saucer,Flower Pot Tray 5292105004624,6.72,1.22,2
+VFT 6060 IM,Flower Pots,Saucer,Flower Pot Tray 5292105005256,6.72,1.21,2
+VFT 6060 PS,Flower Pots,Saucer,Flower Pot Tray 5292105004631,6.72,1.2,2
+VFT 6060 SC,Flower Pots,Saucer,Flower Pot Tray,6.72,1.21,2
+VFT 6060 SM,Flower Pots,Saucer,Flower Pot Tray 5292105006482,6.72,1.21,2
+VFT 6060 WH,Flower Pots,Saucer,Flower Pot Tray 5292105004648,6.72,1.2,2
+VFT 8030 AN,Flower Pots,Saucer,Flower Pot Tray 5292105009094,10.08,2.01,3
+VFT 8030 GD,Flower Pots,Saucer,Flower Pot Tray 5292105009230,10.08,2.01,3
+VFT 8030 GSA,Flower Pots,Saucer,Flower Pot Tray 5292105009087,10.08,2.03,3
+VFT 8030 IM,Flower Pots,Saucer,Flower Pot Tray 5292105009117,10.08,2.02,3
+VFT 8030 PS,Flower Pots,Saucer,Flower Pot Tray 5292105009070,10.08,2.01,3
+VFT 8030 SC,Flower Pots,Saucer,Flower Pot Tray 5292105009124,10.08,2.02,3
+VFT 8030 WH,Flower Pots,Saucer,Flower Pot Tray 5292105009100,10.08,2.01,3
+EXPENSES FOR SOLAR INSTALLATION,Labour,Labour,EXPENSES FOR SOLAR INSTALLATION,70,70,70
+Labour,Labour,Labour,Labour,0,10,10
+LABOUR FOR SOLAR INSTALLATION,Labour,Labour,LABOUR FOR SOLAR INSTALLATION,70,70,70
+BD001,Master batches pellet,Raw Material,White,0,4.8,5
+BD002,Master batches pellet,Raw Material,Black,0,2.1,3
+BD003,Master batches pellet,Raw Material,Grey,0,5.9,6
+BD004,Master batches pellet,Raw Material,Red,0,5.5,6
+BD005,Master batches pellet,Raw Material,Yellow,0,9.8,10
+BD006,Master batches pellet,Raw Material,Orange,0,9.2,10
+BD007,Master batches pellet,Raw Material,Brunette,0,5.9,6
+BD008,Master batches pellet,Raw Material,Brown 70803,0,4.75,5
+BD009,Master batches pellet,Raw Material,Silver,0,7.95,8
+BD010,Master batches pellet,Raw Material,Green,0,4.6,5
+BD011,Master batches pellet,Raw Material,Blue,0,3.7,4
+BD012,Master batches pellet,Raw Material,Chocolate 71700,0,3.95,4
+BE001,Master batches powder,Raw Material,White,0,10,10
+BE002,Master batches powder,Raw Material,Black,0,10,10
+BE003,Master batches powder,Raw Material,Grey,0,10,10
+BE004,Master batches powder,Raw Material,Red,0,10,10
+BE005,Master batches powder,Raw Material,Yellow,0,10,10
+BE006,Master batches powder,Raw Material,Orange,0,10,10
+BE007,Master batches powder,Raw Material,Brunette,0,10,10
+BE008,Master batches powder,Raw Material,Brown,0,10,10
+BE009,Master batches powder,Raw Material,Silver,0,10,10
+ABS PV1001NT,Original pellets,Raw Material,ABS Pellets natural,0,3.1,4
+BB001,Original pellets,Raw Material,Pellets natural,0,1.43,2
+BB002,Original pellets,Raw Material,Pellets white,0,1.44,2
+BB003,Original pellets,Raw Material,Pellets black,0,1.44,2
+BB004,Original pellets,Raw Material,Pellets grey,0,1.25,2
+BB005,Original pellets,Raw Material,Pellets red,0,1.25,2
+BB006,Original pellets,Raw Material,Pellets yellow,0,1.25,2
+BB007,Original pellets,Raw Material,Pellets orange,0,1.25,2
+BB008,Original pellets,Raw Material,Pellets brunette,0,1.25,2
+BB009,Original pellets,Raw Material,Pellets brown,0,1.25,2
+BB010,Original pellets,Raw Material,Pellets silver,0,1.25,2
+BB011,Original pellets,Raw Material,Pellets chocolate,0,1.25,2
+BB012,Original pellets,Raw Material,Pellets blue,0,1.25,2
+BC001,Original powder,Raw Material,Powder natural,0,1.75,2
+BC002,Original powder,Raw Material,Powder white,0,1.75,2
+BC003,Original powder,Raw Material,Powder black,0,1.7,2
+BC004,Original powder,Raw Material,Powder grey,0,1.99,2
+BC005,Original powder,Raw Material,Powder red,0,1.3,2
+BC006,Original powder,Raw Material,Powder yellow,0,1.3,2
+BC007,Original powder,Raw Material,Powder orange,0,1.3,2
+BC008,Original powder,Raw Material,Powder brunette,0,1.3,2
+BC009,Original powder,Raw Material,Powder brown,0,1.3,2
+BC010,Original powder,Raw Material,Powder silver,0,1.3,2
+BC011,Original powder,Raw Material,Powder chocolate,0,1.3,2
+BC012,Original powder,Raw Material,Powder blue,0,1.3,2
+BC013,Original powder,Raw Material,Powder Green,0,1.3,2
+BC014,Original powder,Raw Material,Powder DARK blue,0,1.3,2
+BC101,Original powder,Raw Material,Powder natural diesel,0,2,2
+BC102,Original powder,Raw Material,Powder black diesel,0,2.17,3
+CANOE BASE,Personal Use Products,Canoe,Canoe Car Base,20,8.1927,9
+CANOE BLUE,Personal Use Products,Canoe,Canoe Blue,138.66,36.38,37
+CANOE BLUE BUNDLE,Personal Use Products,Canoe,"Canoe Blue Bundle consisting of Canoe, Paddle and Car Base",163.87,70,70
+CANOE GREEN,Personal Use Products,Canoe,Canoe Green,138.66,37.28,38
+CANOE GREEN BUNDLE,Personal Use Products,Canoe,"Canoe Green Bundle consisting of Canoe, Paddle and Car Base",163.87,70,70
+CANOE ORANGE,Personal Use Products,Canoe,Canoe Orange,138.66,36.38,37
+CANOE ORANGE BUNDLE,Personal Use Products,Canoe,"Canoe Orange Bundle consisting of Canoe, Paddle and Car Base",163.87,70,70
+CANOE RED,Personal Use Products,Canoe,Canoe Red,138.66,36.38,37
+CANOE RED BUNDLE,Personal Use Products,Canoe,"Canoe Red Bundle consisting of Canoe, Paddle and Car Base",163.87,70,70
+CANOE WHITE,Personal Use Products,Canoe,Canoe White,138.66,37.28,38
+CANOE WHITE BUNDLE,Personal Use Products,Canoe,"Canoe White Bundle consisting of Canoe, Paddle and Car Base",163.87,70,70
+CANOE YELLOW,Personal Use Products,Canoe,Canoe Yellow,138.66,37.28,38
+CANOE YELLOW BUNDLE,Personal Use Products,Canoe,"Canoe Yellow Bundle consisting of Canoe, Paddle and Car Base",163.87,70,70
+GAS SHIELD,Personal Use Products,Gas Shield,Gas shield,159,48.26,49
+ISLAND MEDIUM BLUE,Personal Use Products,Island,Island medium blue,75,20.21,21
+KOUPI,Personal Use Products,Canoe,Koupi for Canoe,20,9.2028,10
+PET BASKET AN,Personal Use Products,Pet,Pet Basket Black,24,5.08,6
+PET BASKET CH,Personal Use Products,Pet,Pet Basket Chocolate,24,5.08,6
+PET BASKET GSA,Personal Use Products,Pet,Pet Basket Grey,24,5.13,6
+PET BASKET IM,Personal Use Products,Pet,Pet Basket Beige,24,5.1,6
+PET BASKET PS,Personal Use Products,Pet,Pet Basket Brown,24,5.08,6
+PET BASKET SM,Personal Use Products,Pet,Pet Basket Smoke,24,5.1,6
+PET BASKET WH,Personal Use Products,Pet,Pet Basket White,24,5.08,6
+SEA CHAIR BLUE,Personal Use Products,Sea Chair,Sea Chair Blue,108,26.26,27
+SEA CHAIR GREEN,Personal Use Products,Sea Chair,Sea Chair Green,108,26.91,27
+SEA CHAIR ORANGE,Personal Use Products,Sea Chair,Sea Chair Orange,108,26.26,27
+SEA CHAIR RED,Personal Use Products,Sea Chair,Sea Chair Red,108,26.26,27
+SEA CHAIR WHITE,Personal Use Products,Sea Chair,Sea Chair White,108,26.13,27
+SEA CHAIR YELLOW,Personal Use Products,Sea Chair,Sea Chair Yellow,108,26.91,27
+VD100 BEIGE,Personal Use Products,Pet,Dog House Large Beige,109,40.41,41
+VD100 BROWN,Personal Use Products,Pet,Dog House Large Brown,109,40.21,41
+VD100 CHOCOLATE,Personal Use Products,Pet,Dog House Large Chocolate,109,40.21,41
+VD100 GREY,Personal Use Products,Pet,Dog House Large Grey,109,40.61,41
+VD100 SMOKE,Personal Use Products,Pet,Dog House Large Chocolate,109,40.41,41
+VD45 BEIGE,Personal Use Products,Pet,Dog House Small Beige,40,8.08,9
+VD45 BROWN,Personal Use Products,Pet,Dog House Small Brown,40,8.04,9
+VD45 CHOCOLATE,Personal Use Products,Pet,Dog House Small Chocolate,40,8.04,9
+VD45 GREY,Personal Use Products,Pet,Dog House Small Grey,40,8.12,9
+VD45 SMOKE,Personal Use Products,Pet,Dog House Small Smoke,40,8.08,9
+VD80 BEIGE,Personal Use Products,Pet,Dog House Medium Beige,63,24.24,25
+VD80 BROWN,Personal Use Products,Pet,Dog House Medium Brown,63,24.12,25
+VD80 CHOCOLATE,Personal Use Products,Pet,Dog House Medium Chocolate,63,24.12,25
+VD80 GREY,Personal Use Products,Pet,Dog House Medium Grey,63,24.36,25
+VD80 SMOKE,Personal Use Products,Pet,Dog House Medium Smoke,63,24.24,25
+VG120 BLUE,Personal Use Products,Bin,Bin 120lt Blue,60,21.27,22
+VG120 BROWN,Personal Use Products,Bin,Bin 120lt Brown,60,21.17,22
+VG120 GREEN,Personal Use Products,Bin,Bin 120lt Green,60,21.27,22
+VG120 GREY,Personal Use Products,Bin,Bin 120lt Grey,60,21.8,22
+VG120 RECYCLED,Personal Use Products,Bin,Bin 120lt Recycled,49,10.35,11
+VG120 YELLOW,Personal Use Products,Bin,Bin 120lt Yellow,60,21.8,22
+VG200 BLUE,Personal Use Products,Bin,Bin 200lt Blue,90,26.26,27
+VG200 BROWN,Personal Use Products,Bin,Bin 200lt Brown,90,26.13,27
+VG200 GREEN,Personal Use Products,Bin,Bin 200lt Green,90,26.26,27
+VG200 GREY,Personal Use Products,Bin,Bin 200lt Grey,90,26.91,27
+VG200 RECYCLED,Personal Use Products,Bin,Bin 200lt Recycled,74,26.04,27
+VG200 YELLOW,Personal Use Products,Bin,Bin 200lt Yellow,90,26.91,27
+CEMENT 500,Professional Use Products,Cement,Cement Mix 500lt,92,15.42,16
+CEMENT 700,Professional Use Products,Cement,Cement Mix 700lt,103,17.35,18
+CHUTE,Professional Use Products,Chute,Chute,59,16.57,17
+CHUTE INTERMEDIATE,Professional Use Products,Chute,Chute Intermediate,72,24.84,25
+CHUTE INTERMEDIATE RECYCLED,Professional Use Products,Chute,Chute Intermediate Recycled,55,11.91,12
+CHUTE RECYCLED,Professional Use Products,Chute,Chute Recycled,48,7.95,8
+CHUTE STARTER,Professional Use Products,Chute,Chute Starter,48,16.57,17
+CHUTE STARTER RECYCLED,Professional Use Products,Chute,Chute Starter Recycled,31,7.95,8
+CHUTE SUPPORT,Professional Use Products,Chute,Metal support for chute,52.08,30,30
+CONCRETE CUBE,Professional Use Products,Cube,CONCRETE CUBE TEST,12.7,7,7
+COW NEST,Professional Use Products,Cow,Small Cow's Nest,285,90.48,91
+FLOAT CUBE,Professional Use Products,FloatCube,Float cube,140,30.46,31
+PPC,Professional Use Products,PPC,Pressure Pump Cover,18,8.04,9
+PPC GREY,Professional Use Products,PPC,Pressure Pump Cover Grey,15,3.85,4
+RB BLUE,Professional Use Products,Road Barrier,Road Barrier Blue,169,60.32,61
+RB RED,Professional Use Products,Road Barrier,Road Barrier Red,169,60.62,61
+RB SMALL RED,Professional Use Products,Road Barrier,Road Barrier Small Red,115,39.31,40
+RB SMALL WHITE,Professional Use Products,Road Barrier,Road Barrier Small White,115,39.17,40
+RB WHITE,Professional Use Products,Road Barrier,Road Barrier White,169,60.32,61
+TRIPLE BIN SET,Professional Use Products,Bin,Triple bin set with metal base,205,60.75,61
+VS5 SEPTIC,Professional Use Products,Septic,Septic Tamk Small,392.38,97.22,98
+VS8 SEPTIC,Professional Use Products,Septic,Septic Tank Large,725.63,179.49,180
+ALUMINIUM FRAME 105CM,Spare parts,Spare Part,ALUMINIUM FRAME 105CM,,4,4
+ALUMINIUM FRAME 145CM,Spare parts,Spare Part,ALUMINIUM FRAME 145CM,,6,6
+ALUMINIUM FRAME 210CM,Spare parts,Spare Part,ALUMINIUM FRAME 210CM,,8,8
+ALUMINIUM FRAME 90CM,Spare parts,Spare Part,ALUMINIUM FRAME 90CM,,4,4
+ANTLIA FPHPD-50,Spare parts,Spare Part,ANTLIA NEROU FPHPD-50,439,294.115,295
+ANTLIA G40X,Spare parts,Spare Part,ANTLIA NEROU G40X,333,252.1,253
+BF001,Spare parts,Spare Part,Heaters,0,100,100
+BF002,Spare parts,Spare Part,Inverters,0,1500,1500
+COILS FOR VITA SOLAR,Spare parts,Spare Part,WATER COILS 5MM,,29,29
+CYLINDERS FOR VITASOLAR 100L,Spare parts,Spare Part,PWT - 100L FOR VITA SOLAR 100L SYSTEM,,116,116
+CYLINDERS FOR VITASOLAR 200L,Spare parts,Spare Part,PWT - 67L FOR NEW VITA SOLAR,,119.6,120
+CYLINDERS FOR VITASOLAR 200L M,Spare parts,Spare Part,PWT - 67M FOR NEW VITA SOLAR,,113.65,114
+CYLINDERS FOR VITASOLAR 200L R,Spare parts,Spare Part,PWT - 67R FOR NEW VITA SOLAR,,118.75,119
+CYLINDERS FOR VITASOLAR 200PAWT,Spare parts,Spare Part,PAWT - 67L FOR NEW VITA SOLAR,,185.82,186
+"ELEMENTS 2KW 14""",Spare parts,Spare Part,"INCOLOY ELEMENTS 14"" WITH INCOLOY POCKET",,8.1,9
+"ELEMENTS 2KW 18""",Spare parts,Spare Part,INCOLOY ELEMENTS WITH COPPER POCKET,,13,13
+"ELEMENTS 3KW 18""",Spare parts,Spare Part,INCOLOY ELEMENTS WITH COPPER POCKET,,18,18
+FEMALE FEMALE UNIONS 1/2 INCH,Spare parts,Spare Part,FEMALE FEMALE UNIONS 1/2 INCH,,3.84,4
+FITTINGS FOR CAR TANK,Spare parts,Spare Part,"FITTINGS FOR CAR TANK INCLUDING ..ROUPINETO 1.5 INCH, TANK CONNECTOR 1.5 INCH, GWNIA 1.5 INCH, GWNIA 1 INCH , LASTIHO EPISTROFIS , TANK CONNECTOR FOR EXERISTIRAS ,EXAESRISTIRAS",54,40,40
+FLEXIBLE PIESEWS,Spare parts,Spare Part,FLEXIBLE PIESEWS,33,20,20
+GIALIA ILIAKOU,Spare parts,Spare Part,GIALIA ILIAKOU 100L 80.5 X138.5 CM,,43.48,44
+GLASS TEMPERED,Spare parts,Spare Part,GIALLIA ILIAKOU NEW MODEL (200L 100cm X 198 cm),,96.29,97
+GOMES,Spare parts,Spare Part,GOMES FOR VITA SOLAR -SILIKONES,,3.7,4
+HONEYCOMB INSULATION (WACOTECH),Spare parts,Spare Part,HONEYCOMB INSULATION (WACOTECH),,35.14,36
+KIP,Spare parts,Spare Part,KILINDROS IPSILIS PIESIS - KIP/OLD MODEL,,69.91,70
+Lama 150X8,Spare parts,Spare Part,Lama 150mm X 8 mm,0,4,4
+Lama 30X4,Spare parts,Spare Part,Lama 150mm X 8 mm,0,2,2
+MATERIALS FOR INSTALLATION,Spare parts,Spare Part,"EXPANSION TANK 18L, SAFETY VALVE 6 BAR, VACUUM BREAKER , CHECK VALVE 3/4"" , ISOLATING VALVE FOR COLD WATER INLET , BRASS FITTINGS",50,40,40
+metal pipe 2,Spare parts,Spare Part,metal pipe 2 inches,0,5.64,6
+NEOPREME,Spare parts,Spare Part,"NEOPREME 1""MAVROS IALOVAMVAKAS",,295,295
+PASAMANO 2525,Spare parts,Spare Part,25 X 25 X 2 mm pasamano,0,2.6,3
+PASAMANO 3030,Spare parts,Spare Part,30 X 30 X 2 mm pasamano,0,2.8,3
+PASAMANO 4040,Spare parts,Spare Part,40 X 40 X 2 mm pasamano,0,3.74,4
+PASAMANO 8040,Spare parts,Spare Part,80 X 40 X 2 mm pasamano,0,5.64,6
+PLASTIC CAP 215MM WITH ORING,Spare parts,Spare Part,PLASTIC CAP 215MM WITH ORING (M),,4.55,5
+PLASTIKO PERIVLIMA VITA SOLAR,Spare parts,Spare Part,PLASTIKO PERIVLIMA VITA SOLAR,,70,70
+POLYURETHANE LIQUIDS(A+B),Spare parts,Spare Part,POLYURETHANE LIQUIDS(A+B) KG,,3,3
+QUICK RELEASE 1 1/2,Spare parts,Spare Part,QUICK RELEASE 1 1/2 INCH,16,11.9,12
+QUICK RELEASE 1 INCH,Spare parts,Spare Part,QUICK RELEASE 1  INCH,10,7.65,8
+SOLCOTE PAINT(GALLONS),Spare parts,Spare Part,SOLCOTE PAINT(GALLONS),,99.85,100
+SS MALE THREADED PIPES 30CM,Spare parts,Spare Part,SS MALE THREADED PIPES 30CM,,8.54,9
+TANK CONNECTOR 2 INCHES,Spare parts,Spare Part,Tank Connector 2 inches,9.6,6.4,7
+TANK CONNECTOR 3 INCHES,Spare parts,Spare Part,Tank Connector 3 inches,24.6,22,22
+TANK CONNECTOR FEMALE 1 INCH,Spare parts,Spare Part,Tank Connector 1 inch,,0.85,1
+TANK CONNECTOR FEMALE 3/4 INCH,Spare parts,Spare Part,Tank Connector 3/4 inch,,0.63,1
+TANK CONNECTOR MALE 1 1/2 INCH,Spare parts,Spare Part,Tank Connector 1 1/2  inch,11,8,8
+THERMOSTATES,Spare parts,Spare Part,THERMOSTATES,,6.4,7
+TILIKTIRAS,Spare parts,Spare Part,"TILIKTIRAS LASTIHO 30M , AKROFISIO",166,150,150
+VALVIDA EPISTORFIS,Spare parts,Spare Part,VALVIDA EPISTROFIS,52,39,39
+VITA SOLAR 100L STANDARD,Spare parts,Spare Part,VITA SOLAR 100L STANDARD MODEL -..COLOUR OF HOUSING : GREY..SYSTEMS SUPPLIED - SERIAL NO.: 00138,460,400,400
+VITA SOLAR 200L STANDARD,Spare parts,Spare Part,"VITA SOLAR 200L STANDARD MODEL - with honeycomb transparent insulation and inclusive 2kw each , a double pole isolator and metal adjustable support for flat roof.  White housing.",1036.22,829,829
+WATER COIL,Spare parts,Spare Part,,100,80,80
+CAR FIRE SYSTEM,Tanks,FireSystem,"CAR FIRE SYSTEM (VASI, ANTLIA, TILIKTIRAS , NTEPOZITO KAI EXARTIMATA)",900,620.81,621
+CAR FIRE SYSTEM PLUS,Tanks,FireSystem,"CAR FIRE SYSTEM PLUS(VASI, ANTLIA, TILIKTIRAS , NTEPOZITO KAI EXARTIMATA)",960,662.83,663
+CAR TANK 500,Tanks,Car Tank,Water tank for truck use 500lt,250,30.46,31
+CAR TANK 500 RED,Tanks,Car Tank,Water tank for truck use 500lt red,250,30.46,31
+LID,Tanks,Lid,Lid for Tanks,11,4.02,5
+LID LARGE,Tanks,Lid,Lid Large for Tanks,13,4.28,5
+LID LARGE BLUE,Tanks,Lid,Lid Large for Tanks,13,4.28,5
+METAL BASE 100 X 100,Tanks,Metal Base,Metal base 100 X 100 X 40 cm height,111,78,78
+METAL BASE FOR CAR FIRE SYSTEM,Tanks,Metal Base,METAL BASE FOR CAR FIRE SYSTEM,120,90,90
+METAL BASE FOR OVAL,Tanks,Metal Base,Metal base for Oval,101.34,68,68
+METAL BASE FOR VT 1300V,Tanks,Metal Base,Metal base for 1300V,204.46,78,78
+METAL BASE FOR VT 1500V,Tanks,Metal Base,Metal base for 1500V,132.71,78,78
+METAL BASE FOR VT 2000V,Tanks,Metal Base,Metal base for 2000V,132.71,78,78
+METAL BASE FOR VT 2100V,Tanks,Metal Base,Metal base for 2100V,132.71,78,78
+METAL BASE FOR VT 4000V,Tanks,Metal Base,Metal base for 4000V,253.43,150,150
+METAL BASE FOR VT 5000V,Tanks,Metal Base,Metal base for 5000V,258.12,150,150
+METAL BASE FOR VT 500V,Tanks,Metal Base,Metal base for 500V,72.21,50,50
+METAL BASE FOR VT 6000V,Tanks,Metal Base,Metal base for 6000V,451.5,250,250
+METAL BASE FOR VT 8000V,Tanks,Metal Base,Metal base for 8000V,451.5,250,250
+METAL BASE FOR VT 900V,Tanks,Metal Base,Metal base for 900V,90.4,78,78
+METAL BASE FOR VT1000L-VT1100L,Tanks,Metal Base,"Metal base for VT1000L, VT1100L",88.81,40,40
+METAL BASE FOR VT1100,Tanks,Metal Base,Metal base for VT1100,88.81,50,50
+METAL BASE FOR VT1400L-VT1800L,Tanks,Metal Base,"Metal base for VT1400L, VT1800L",88.81,60,60
+METAL BASE FOR VT200R,Tanks,Metal Base,Metal base for VT200R,100,78,78
+METAL BASE FOR VT2100L,Tanks,Metal Base,Metal base for VT2100L,93.66,60,60
+METAL BASE FOR VT300R,Tanks,Metal Base,Metal base for VT300R,49.44,30,30
+METAL BASE FOR VT400L,Tanks,Metal Base,Metal base for VT400L,46.34,30,30
+METAL BASE FOR VT600L,Tanks,Metal Base,Metal base for VT600L,46.15,30,30
+METAL BASE FOR VT800L,Tanks,Metal Base,Metal base for VT800L,70.71,50,50
+METAL BASE TOWER,Tanks,Metal Base,Metal tower 2 m,145,119,119
+Transportation Large,Tanks,Transportation,Transportation of large tanks (max 2 per route),100,80,80
+VT1000 OVAL,Tanks,Small Tank,Water tank vertical OVAL 1000lt,258,96.51,97
+VT1000 OVAL-D,Tanks,Small Tank,Diesel tank vertical OVAL 1000lt,284,110.59,111
+VT10000V,Tanks,Large Tank,Water tank vertical 10000lt,1344,367.61,368
+VT1000L,Tanks,Small Tank,Water tank horizontal with legs 1000lt,166,72.38,73
+VT1000L-D,Tanks,Small Tank,Diesel tank horizontal with legs 1000lt,213,82.94,83
+VT100V,Tanks,Small Tank,Water tank vertical 100lt,48,12.19,13
+VT1100,Tanks,Small Tank,Water tank horizontal without legs 1100lt,171,74.4,75
+VT1100 THICK,Tanks,Small Tank,Water tank horizontal without legs 1100lt THICK,220,85.42,86
+VT1100 THICK CLEAR,Tanks,Small Tank,Water tank horizontal without legs 1100lt THICK CLEAR,220,85.42,86
+VT1100L,Tanks,Small Tank,Water tank horizontal with legs 1100lt,171,76.41,77
+VT1100L-D,Tanks,Small Tank,Diesel tank horizontal with legs 1100lt,231,84.91,85
+VT120V,Tanks,Small Tank,Water tank vertical 120lt,47,14.03,15
+VT120V GSA,Tanks,Small Tank,Water tank vertical 120lt,47,14.03,15
+VT120V-D,Tanks,Small Tank,Diesel tank vertical 120lt,57,14.03,15
+VT1300V,Tanks,Small Tank,Water tank vertical 1300lt,265,90.48,91
+VT1300V GREY,Tanks,Small Tank,Water tank vertical 1300lt GREY,265,90.48,91
+VT1400L,Tanks,Small Tank,Water tank horizontal with legs 1400lt,230,96.51,97
+VT1400L-D,Tanks,Small Tank,Diesel tank horizontal with legs 1400lt,284,110.59,111
+VT15000V,Tanks,Large Tank,Water tank vertical 15000lt,1967,523.49,524
+VT1500V,Tanks,Small Tank,Water tank vertical 1500lt,247,90.48,91
+VT1500V-D,Tanks,Small Tank,Diesel tank vertical 1500lt,296,103.68,104
+VT1800L,Tanks,Small Tank,Water tank horizontal with legs 1800lt,277,110.59,111
+VT1800L-D,Tanks,Small Tank,Diesel tank horizontal with legs 1800lt,378,128.19,129
+VT20000V,Tanks,Large Tank,Water tank vertical 20000lt,2665,617.58,618
+VT2000V,Tanks,Small Tank,Water tank vertical 2000lt,317,120.65,121
+VT200R,Tanks,Small Tank,Water tank rectangular 200lt,71,24.36,25
+VT200R-D,Tanks,Small Tank,Diesel tank rectangular 200lt,88.75,24.36,25
+VT200V,Tanks,Small Tank,Water tank vertical 200lt,47,22.34,23
+VT2100L,Tanks,Small Tank,Water tank horizontal with legs 2100lt,328,120.65,121
+VT2100L-D,Tanks,Small Tank,Diesel tank horizontal with legs 2100lt,395,120.65,121
+VT2100V,Tanks,Small Tank,Water tank vertical 2100lt,328,120.65,121
+VT2100V-D,Tanks,Small Tank,Diesel tank vertical 2100lt,414,138.25,139
+VT250L-AC,Tanks,Small Tank,Spraying tank 250lt,95,30.16,31
+VT250L-AC WHITE,Tanks,Small Tank,Spraying tank 250lt,95,30.16,31
+VT250V,Tanks,Small Tank,Water tank vertical 250lt,59,24.36,25
+VT250V WHITE,Tanks,Small Tank,Water tank vertical 250lt,59,24.36,25
+VT250V-D,Tanks,Small Tank,Diesel tank vertical 250lt,71,27.64,28
+VT3000L,Tanks,Small Tank,Water tank horizontal with legs 3000lt,505,191.02,192
+VT300R,Tanks,Small Tank,Water tank rectangular 300lt,95,36.56,37
+VT300R-D,Tanks,Small Tank,Diesel tank rectangular 300lt,112,36.56,37
+VT30R,Tanks,Small Tank,Water tank rectangular 30lt,33,6.1,7
+VT4000V,Tanks,Medium Tank,Water tank vertical 4000lt,554,164.53,165
+VT4000V - D,Tanks,Medium Tank,Diesel tank vertical 4000lt,720,164.53,165
+VT4000V - TH,Tanks,Medium Tank,Water tank vertical 4000lt thick,720,164.53,165
+VT400L,Tanks,Small Tank,Water tank horizontal with legs 400lt,95,40.21,41
+VT400L-D,Tanks,Small Tank,Diesel tank horizontal with legs 400lt,112,46.37,47
+VT500 OVAL,Tanks,Small Tank,Water tank vertical OVAL 500lt,118,42.23,43
+VT500 OVAL-D,Tanks,Small Tank,Diesel tank vertical OVAL 500lt,140,48.39,49
+VT5000V,Tanks,Medium Tank,Water tank vertical 5000lt,710,179.49,180
+VT5000V THICK,Tanks,Medium Tank,Water tank vertical thick 5000lt,924,202.84,203
+VT500L-AC,Tanks,Small Tank,Spraying tank 500lt,129,40.21,41
+VT500L-AC WHITE,Tanks,Small Tank,Spraying tank 500lt,129,40.21,41
+VT500L-AC YELLOW,Tanks,Small Tank,Spraying tank 500lt,129,41.41,42
+VT500V,Tanks,Small Tank,Water tank vertical 500lt,83,30.46,31
+VT500V WHITE,Tanks,Small Tank,Water tank vertical 500lt,83,30.46,31
+VT500V-D,Tanks,Small Tank,Diesel tank vertical 500lt,99,35.44,36
+VT6000V,Tanks,Medium Tank,Water tank vertical 6000lt,753,222.57,223
+VT6000V - TH,Tanks,Medium Tank,Water tank vertical 6000lt THICK,979,222.57,223
+VT6000V - WH,Tanks,Medium Tank,Water tank vertical 6000lt - white,833,325.09,326
+VT600L,Tanks,Small Tank,Water tank horizontal with legs 600lt,118,46.25,47
+VT600L-D,Tanks,Small Tank,Diesel tank horizontal with legs 600lt,142,52.41,53
+VT60R,Tanks,Small Tank,Water tank rectangular 60lt,47,8.12,9
+VT60R CLEAR,Tanks,Small Tank,Water tank rectangular 60lt,47,8.12,9
+VT60R WHITE,Tanks,Small Tank,Water tank rectangular 60lt,47,8.12,9
+VT750 OVAL,Tanks,Small Tank,Water tank vertical OVAL 750lt,166,60.32,61
+VT750 OVAL-D,Tanks,Small Tank,Diesel tank vertical OVAL 750lt,189,69.12,70
+VT750L,Tanks,Small Tank,Water tank horizontal with legs 750lt M.H model,123,58.31,59
+VT800,Tanks,Small Tank,Water tank horizontal without legs 800lt,129,58.31,59
+VT8000V,Tanks,Medium Tank,Water tank vertical 8000lt,892,294.09,295
+VT8000V GREEN,Tanks,Medium Tank,Water tank vertical 8000lt green,892,398.75,399
+VT8000V WHITE,Tanks,Medium Tank,Water tank vertical 8000lt white,983,398.75,399
+VT800L,Tanks,Small Tank,Water tank horizontal with legs 800lt,129,58.31,59
+VT800L-D,Tanks,Small Tank,Diesel tank horizontal with legs 800lt,166,66.23,67
+VT900V,Tanks,Small Tank,Water tank vertical 900lt,166,64.34,65
+VT900V-D,Tanks,Small Tank,Diesel tank vertical 900lt,201,74.9,75
+VW13 BROWN,Tanks,Small Tank,Wine Barrel 13lt Brown,28,3.06,4
+VW13 GREY,Tanks,Small Tank,Wine Barrel 13lt Grey,28,3.09,4
+VW13 WHITE,Tanks,Small Tank,Wine Barrel 13lt White,28,3.06,4
+Transportation Misc,Transportation,Transportation,Transportation of miscelleanous products,15,10,10
+Transportation Small,Transportation,Transportation,Transportation of small,25,20,20
+SOLAR 200L BEIGE,VitaSolar,Solar Heater,Solar case 200L Beige,0,44.46,45
+SOLAR 200L BROWN,VitaSolar,Solar Heater,Solar case 200L Brown,0,44.24,45
+SOLAR 200L GREY,VitaSolar,Solar Heater,Solar case 200L Grey,0,44.68,45
+SOLAR 200L WHITE,VitaSolar,Solar Heater,Solar case 200L White,0,44.24,45
+Transportation for solar,VitaSolar,Transportation,Transportation for solar,50,50,50

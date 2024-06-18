@@ -61,8 +61,7 @@ def load_excel(file, table_name):
     return df
 
 
-# load data from a file (CSV or Excel) into a specified
-# table and perform initial validation against required columns
+# General loader that calls load_csv or load_excel based on file type
 def load_data(file, table_name, required_columns):
     try:
         if file is not None and f"{table_name}_data" not in st.session_state:
@@ -104,8 +103,7 @@ def load_data(file, table_name, required_columns):
         return False
 
 
-# FETCH data from a specified table in the SQLite database and
-# return it as a Pandas DF.
+# It stores the fetched data in the Streamlit session state to avoid redundant queries.
 def load_data_from_db(table_name):
     if f"{table_name}_data" in st.session_state:
         return st.session_state[f"{table_name}_data"]
@@ -116,7 +114,7 @@ def load_data_from_db(table_name):
 
 
 # merge data from the customers, invoices, and
-# products tables into a single dataset.
+# products tables into a single df.
 def merge_data(customers_table_name, invoices_table_name, products_table_name):
     if "merged_data" in st.session_state:
         return st.session_state["merged_data"]
@@ -161,8 +159,8 @@ def merge_data(customers_table_name, invoices_table_name, products_table_name):
         return df
 
 
-# Create a new column in the dataframe to calculate the cost amount based on
-# the product cost or cost percentage and the quantity sold.
+# calculates the cost amount for each transaction
+# based on either the product cost or cost percentage and the quantity sold
 def calculate_cost(df):
     try:
         if "Product_Cost" in df.columns:
@@ -218,13 +216,13 @@ def process_expenses(df, expenses_df):
 # Allocates amounts from a single expense row to the DataFrame based on defined rules.
 def allocate_expense(df, row):
     try:
-        expense_name = row["Expense"]
-        allocations = row["Allocate_To"].split(";")
-        by_tran = row["Allocate_By_Tran"] / len(allocations)
-        by_value = row["Allocate_By_Value"] / len(allocations)
-        total_amount = row["Amount"]
-        amount_by_tran = total_amount * by_tran
-        amount_by_value = total_amount * by_value
+        expense_name = row["Expense"]  # e.g Marketing
+        allocations = row["Allocate_To"].split(";")  # ["Product=P001"]
+        by_tran = row["Allocate_By_Tran"] / len(allocations)  # 0.3 / 1 = 0.3
+        by_value = row["Allocate_By_Value"] / len(allocations)  # 0.7 / 1 = 0.7
+        total_amount = row["Amount"]  # 210
+        amount_by_tran = total_amount * by_tran  # 210 * 0.3 = 63
+        amount_by_value = total_amount * by_value  # 210 * 0.7 = 147
         for allocation in allocations:
             df = allocate_based_on_rules(
                 df, allocation.strip(), amount_by_tran, amount_by_value, expense_name

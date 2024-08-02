@@ -5,6 +5,14 @@ import base64
 import io  #  for handling I/O operations, such as reading and writing data to files
 import sqlite3
 
+st.set_page_config(
+    page_title="ProfitScan",
+    page_icon="📊",
+    layout="wide",
+    initial_sidebar_state="expanded",
+    menu_items=None,
+)
+
 # SQLite Database Connection:
 # if this db does not exist, SQLite creates it automatically.
 conn = sqlite3.connect("my_database.db")
@@ -502,7 +510,6 @@ def apply_expense_weights(df, expenses_df):
 
 
 def main():
-    st.set_page_config(page_title="ProfitScan", layout="wide")
     hide_streamlit_style = """
             <style>
             footer {visibility: hidden;}

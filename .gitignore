@@ -1,7 +1,6 @@
-# Ignore the virtual environment directory
-myenv/
 
-# Ignore other files and directories you don't want to push
 *.pyc
 __pycache__/
 .DS_Store
+myenv/
+my_database.db

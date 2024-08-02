@@ -103,7 +103,7 @@ def load_data(file, table_name, required_columns):
         return False
 
 
-# It stores the fetched data in the Streamlit session state to avoid redundant queries.
+# It stores the fetched data in the session state to avoid redundant queries.
 def load_data_from_db(table_name):
     if f"{table_name}_data" in st.session_state:
         return st.session_state[f"{table_name}_data"]
@@ -206,7 +206,6 @@ def process_expenses(df, expenses_df):
             for _, row in expense_rows.iterrows():
                 # The allocate_expense function is called for each row related to an expense
                 df = allocate_expense(df, row)
-
         return df
     except Exception as e:
         st.error(f"Expense processing failed. Error: {e}")
@@ -354,77 +353,70 @@ def check_uploaded_files():
 
 def generate_report(df, allocation_factor, report_type, expenses_df):
     with st.spinner("Generating the report..."):
+        # Columns to sum
+        sum_columns = [
+            "Quantity",
+            "Sales_Amount",
+            "Cost_Amount",
+            "Total_Expense",
+            "Net_Profit",
+        ]
+
         if report_type == "Summary":
             if allocation_factor.lower() == "all":
-                report_df = pd.DataFrame(
-                    df.loc["Total"].copy()
-                ).transpose()  # Only include the "Total" row
-                report_df.index = ["Grand Total"]  # Change "Total" to "Grand Total"
+                report_df = df.loc["Total", sum_columns].to_frame().T
+                report_df.index = ["Grand Total"]
             else:
-                df = df[
-                    [
-                        allocation_factor,
-                        "Sales_Amount",
-                        "Cost_Amount",
-                        "Total_Expense",
-                        "Net_Profit",
-                    ]
-                ]
-                report_df = df.groupby(allocation_factor).sum()
-
-                # Add the grand total row
+                report_df = df.groupby(allocation_factor)[sum_columns].sum()
                 report_df.loc["Grand Total"] = report_df.sum()
 
-                # Rename columns for the report
-                report_df.rename(
-                    columns={
-                        "Sales_Amount": "Sum of Sales_Amount",
-                        "Cost_Amount": "Sum of Cost_Amount",
-                        "Total_Expense": "Sum of Total Expenses",
-                        "Net_Profit": "Sum of Net Profit",
-                    },
-                    inplace=True,
-                )
-                display_df = report_df.copy()
-                if allocation_factor.lower() != "all":
-                    report_df = report_df.reset_index(
-                        drop=False
-                    )  # Reset index for downloading
+            # Add calculated columns
+            report_df["Avg Sales Price"] = (
+                report_df["Sales_Amount"] / report_df["Quantity"]
+            )
+            report_df["Avg Cost"] = report_df["Cost_Amount"] / report_df["Quantity"]
+
+            # Rename columns
+            report_df.rename(
+                columns={col: f"Sum of {col}" for col in sum_columns}, inplace=True
+            )
 
         elif report_type == "Detailed":
             if allocation_factor.lower() == "all":
-                report_df = df[df.select_dtypes(np.number).columns.tolist()].copy()
+                report_df = df[
+                    df.select_dtypes(np.number).columns.intersection(
+                        sum_columns + list(expenses_df["Expense"].unique())
+                    )
+                ].copy()
                 report_df = report_df.groupby(df.index).sum()
             else:
-                report_df = df[
-                    [allocation_factor] + df.select_dtypes(np.number).columns.tolist()
-                ].copy()
-                report_df = report_df.groupby(allocation_factor).sum()
-
-                # grand total row
-                if "Total" not in report_df.index:
-                    report_df.loc["Grand Total"] = report_df.sum()
-
-                # columns renamed for the report
-                report_df.rename(
-                    columns={
-                        "Sales_Amount": "Sum of Sales_Amount",
-                        "Cost_Amount": "Sum of Cost_Amount",
-                        "Net_Profit": "Sum of Net Profit",
-                    },
-                    inplace=True,
-                )
-                # Rename individual expense columns
-                for expense in expenses_df["Expense"].unique():
-                    report_df.rename(
-                        columns={expense: f"Sum of {expense}"}, inplace=True
+                report_df = df.groupby(allocation_factor)[
+                    df.select_dtypes(np.number).columns.intersection(
+                        sum_columns + list(expenses_df["Expense"].unique())
                     )
+                ].sum()
 
-                display_df = report_df.copy()  # copy for displaying
-                if allocation_factor.lower() != "all":
-                    report_df = report_df.reset_index(
-                        drop=False
-                    )  # Reset index for downloading
+            if "Total" not in report_df.index:
+                report_df.loc["Grand Total"] = report_df.sum()
+
+            # Added calculated columns
+            report_df["Avg Sales Price"] = (
+                report_df["Sales_Amount"] / report_df["Quantity"]
+            )
+            report_df["Avg Cost"] = report_df["Cost_Amount"] / report_df["Quantity"]
+
+            # Rename columns
+            report_df.rename(
+                columns={
+                    col: f"Sum of {col}" if col in sum_columns else f"Sum of {col}"
+                    for col in report_df.columns
+                },
+                inplace=True,
+            )
+
+        display_df = report_df.copy()
+        if allocation_factor.lower() != "all":
+            report_df = report_df.reset_index(drop=False)
 
     return report_df, display_df
 

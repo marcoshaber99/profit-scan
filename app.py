@@ -422,6 +422,11 @@ def generate_report(df, allocation_factor, report_type, expenses_df):
                 inplace=True,
             )
 
+        # Format numeric columns for report
+        numeric_columns = report_df.select_dtypes(include=[np.number]).columns
+        for col in numeric_columns:
+            report_df[col] = report_df[col].apply(lambda x: f"{x:.0f}")
+
         display_df = report_df.copy()
         if allocation_factor.lower() != "all":
             report_df = report_df.reset_index(drop=False)

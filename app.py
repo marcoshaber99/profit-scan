@@ -422,10 +422,10 @@ def generate_report(df, allocation_factor, report_type, expenses_df):
                 inplace=True,
             )
 
-        # Format numeric columns for report
+        # Round the numeric columns to integers
         numeric_columns = report_df.select_dtypes(include=[np.number]).columns
         for col in numeric_columns:
-            report_df[col] = report_df[col].apply(lambda x: f"{x:.0f}")
+            report_df[col] = report_df[col].round(0).astype(int)
 
         display_df = report_df.copy()
         if allocation_factor.lower() != "all":
@@ -818,18 +818,24 @@ def main():
                 report_df, display_df = generate_report(
                     processed_df, allocation_factor, report_type, expenses_df
                 )
+
+            # Format display_df for better readability in Streamlit
+            numeric_columns = display_df.select_dtypes(include=[np.number]).columns
+            for col in numeric_columns:
+                display_df[col] = display_df[col].apply(lambda x: f"{x:,}")
+
             st.markdown(
                 f"<h3 style='text-align: left; margin-top: 2rem'>{report_type} Report</h3>",
                 unsafe_allow_html=True,
             )
-            st.dataframe(display_df)  # display_df to display in the app
+            st.dataframe(display_df)  # Display formatted dataframe in Streamlit
 
             report_filename = (
                 f"{report_type}_Report_{allocation_factor}.{file_extension}"
             )
             report_download_link = create_download_link(
                 report_df, report_filename, file_extension
-            )  # Use report_df for downloading
+            )  # Use the unformatted report_df for downloading
             st.markdown(report_download_link, unsafe_allow_html=True)
 
             conn.close()

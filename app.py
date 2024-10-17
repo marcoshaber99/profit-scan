@@ -292,8 +292,12 @@ def calculate_totals(df, expenses_df):
 
         # Calculate total expenses using the selected columns
         total_expense = df[expense_columns].sum(axis=1)
-        df["Total_Expense"] = total_expense
-        df["Net_Profit"] = df["Sales_Amount"] - df["Total_Expense"] - df["Cost_Amount"]
+        df["Total_Expense"] = total_expense.round(2)  # Round to 2 decimal places
+        df["Net_Profit"] = (
+            df["Sales_Amount"] - df["Total_Expense"] - df["Cost_Amount"]
+        ).round(
+            2
+        )  # Round to 2 decimal places
     except Exception as e:
         st.error(f"Total calculation failed. Error: {e}")
     return df
@@ -378,12 +382,6 @@ def generate_report(df, allocation_factor, report_type, expenses_df):
                 report_df = df.groupby(allocation_factor)[sum_columns].sum()
                 report_df.loc["Grand Total"] = report_df.sum()
 
-            # Add calculated columns
-            report_df["Avg Sales Price"] = (
-                report_df["Sales_Amount"] / report_df["Quantity"]
-            )
-            report_df["Avg Cost"] = report_df["Cost_Amount"] / report_df["Quantity"]
-
             # Rename columns
             report_df.rename(
                 columns={col: f"Sum of {col}" for col in sum_columns}, inplace=True
@@ -406,12 +404,6 @@ def generate_report(df, allocation_factor, report_type, expenses_df):
 
             if "Total" not in report_df.index:
                 report_df.loc["Grand Total"] = report_df.sum()
-
-            # Added calculated columns
-            report_df["Avg Sales Price"] = (
-                report_df["Sales_Amount"] / report_df["Quantity"]
-            )
-            report_df["Avg Cost"] = report_df["Cost_Amount"] / report_df["Quantity"]
 
             # Rename columns
             report_df.rename(

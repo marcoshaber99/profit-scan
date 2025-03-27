@@ -2,6 +2,19 @@
 
 A Streamlit-based financial analysis tool for calculating product profitability by allocating expenses across transactions.
 
+## Setup Virtual Environment
+
+```bash
+# Create virtual environment
+python -m venv myenv
+
+# Activate virtual environment
+# On Windows
+myenv\Scripts\activate
+# On macOS/Linux
+source myenv/bin/activate
+```
+
 ## Installation
 
 ```bash
